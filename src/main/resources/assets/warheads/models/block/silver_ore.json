@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "warheads:blocks/silverore",
+    "up": "warheads:blocks/silverore",
+    "north": "warheads:blocks/silverore",
+    "east": "warheads:blocks/silverore",
+    "south": "warheads:blocks/silverore",
+    "west": "warheads:blocks/silverore",
+    "particle": "warheads:blocks/silverore"
+  }
+}

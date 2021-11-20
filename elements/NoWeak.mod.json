@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "toolofgods",
+    "customModelName": "model:default",
+    "name": "Божий атаман",
+    "specialInfo": [
+      "Говорят что этот предмет помогал богам делать наш мир"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:WarheadsItems"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 21231,
+    "efficiency": 90.5,
+    "attackSpeed": 0.8,
+    "enchantability": 28,
+    "damageVsEntity": 12.299999999999999,
+    "usageCount": 10130,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

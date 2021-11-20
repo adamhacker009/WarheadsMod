@@ -1,0 +1,8 @@
+{
+  "parent": "warheads:custom/model",
+  "textures": {
+    "0": "warheads:blocks/texture",
+    "1": "warheads:blocks/texture1",
+    "particle": "warheads:items/toolofgods"
+  }
+}

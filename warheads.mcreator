@@ -1,0 +1,180 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "NoWeak",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "no_weak"
+    },
+    {
+      "name": "Brokegods",
+      "type": "achievement",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brokegods"
+    },
+    {
+      "name": "S1NaBlokieNazhataPravaiaKnopkaMyshi",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "s_1_na_blokie_nazhata_pravaia_knopka_myshi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "S1",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "s_1"
+    },
+    {
+      "name": "Ambrosium",
+      "type": "potion",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ambrosium"
+    },
+    {
+      "name": "WarheadsItems",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warheads_items"
+    },
+    {
+      "name": "SilverPick",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_pick"
+    },
+    {
+      "name": "SilverIngots",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ingots"
+    },
+    {
+      "name": "RecipeSilverIngots",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_silver_ingots"
+    },
+    {
+      "name": "SilverOre",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore"
+    },
+    {
+      "name": "SilverIngotsRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ingots_recipe"
+    },
+    {
+      "name": "Ambrosiumberrys",
+      "type": "food",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ambrosiumberrys"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.brokegods.title": "Боги в шоке",
+      "item.minecraft.lingering_potion.effect.ambrosium": "Lingering Potion of Ambrosium",
+      "item.warheads.no_weak": "Божий атаман",
+      "item.minecraft.potion.effect.ambrosium": "Potion of Ambrosium",
+      "item.minecraft.splash_potion.effect.ambrosium": "Splash Potion of Ambrosium",
+      "itemGroup.tabwarheads_items": "Warheads Items",
+      "advancements.brokegods.descr": "Получить божий атаман",
+      "item.warheads.silver_ingots": "Silver Ingots",
+      "block.warheads.silver_ore": "Silver Ore",
+      "item.minecraft.tipped_arrow.effect.ambrosium": "Arrow of Ambrosium",
+      "block.warheads.s_1": "Emperors",
+      "item.warheads.silver_pick": "Silver Pick",
+      "item.warheads.ambrosiumberrys": "Ambrosiumberrys"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "warheads",
+    "modName": "Warheads",
+    "version": "0.0.1",
+    "description": "Фантазия да и только",
+    "author": "hacke, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.warheads",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

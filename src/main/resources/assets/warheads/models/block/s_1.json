@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "warheads:blocks/s3",
+    "up": "warheads:blocks/s2",
+    "north": "warheads:blocks/s1",
+    "east": "warheads:blocks/s1",
+    "south": "warheads:blocks/s1",
+    "west": "warheads:blocks/s1",
+    "particle": "warheads:blocks/s3"
+  }
+}

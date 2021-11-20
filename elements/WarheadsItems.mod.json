@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Warheads Items",
+    "icon": {
+      "value": "CUSTOM:NoWeak"
+    },
+    "showSearch": false
+  }
+}
